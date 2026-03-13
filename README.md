@@ -1,5 +1,7 @@
 # raid-devops-day2
 
+hello there
+
 A simple full-stack project with a React frontend and TypeScript backend.
 
 ## Project Structure
@@ -38,6 +40,7 @@ Open [http://localhost:5173](http://localhost:5173) to view the app.
 
 To configure the backend URL, copy `.env.example` to `.env` and set `VITE_API_URL`.
 
-## Screenshot
+## Screenshot 
+
 
 ![Users list](https://github.com/user-attachments/assets/9130b56b-57a4-439c-8419-b770275742e2)
